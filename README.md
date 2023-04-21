@@ -37,7 +37,7 @@ Para iniciar a aplicação, execute o seguinte comando no terminal:
 
 Isso abrirá uma interface no console onde você terá que logar o whatsapp que você deseja rodar o bot através de um QR Code Scan.
 
-![alt text](img/venom.png)
+![alt](.github/venom.png)
 
 
 
