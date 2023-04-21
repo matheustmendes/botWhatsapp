@@ -45,6 +45,3 @@ Isso abrirá uma interface no console onde você terá que logar o whatsapp que 
 
 Sinta-se à vontade para contribuir para este projeto abrindo uma issue ou enviando um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
